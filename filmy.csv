@@ -1,7 +1,7 @@
 Bulwar Zachodzącego Słońca;Sunset Blvd.;1950;Billy Wilder;Dramat,Film-Noir;USA;Gloria Swanson,Joe Gillis
 Filadelfijska opowieść;The Philadelphia Story;1940;George Cukor;Komedia romantyczna;USA;Cary Grant,Katharine Hepburn,James Stewart
 Osławiona;Notorious;1946;Alfred Hitchcock;Film-Noir,Romans;USA;Cary Grant,Ingrid Bergman
-Urzeczona;Spellbound;1945;Alfred Hitchcock;Film-Noir;USA;Gregory Peck;Ingrid Bergman;;;;;
+Urzeczona;Spellbound;1945;Alfred Hitchcock;Film-Noir;USA;Gregory Peck,Ingrid Bergman
 Zabić Drozda;To Kill a Mockingbird;1962;Robert Mulligan;Obyczajowy,Prawniczy,Dramat sądowy;USA;Gragory Peck
 Sznur;Rope;1948;Alfred Hitchcock;Kryminał,Thriller;USA;James Stewart
 Okno na podwórze;Rear Window;1954;Alfred Hitchcock;Psychologiczny,Dreszczowiec;USA;James Stewart,Grace Kelly
@@ -45,7 +45,7 @@ Szał;Frenzy;1972;Alfred Hitchcock;Kryminał,Thriller;Wielka Brytania;Jon Finch,
 Podwójne ubezpieczenie;Double Indemnity;1944;Billy Wilder;Dramat,Kryminał,Film-Noir;USA;Fred MacMurray,Barbara Stanwyck
 Akt oskarżenia;The Paradine Case;1947;Alfred Hitchcock;Romans,Dramat sądowy;USA;Gregory Peck
 Wielki sen;The Big Sleep;1946;Howard Hawks;Film-Noir;USA;Humphrey Bogart,Lauren Bacall
-Quo vadis;Quo vadis;1951;Mervyn LeRoy;Dramat historyczny;USA;Robert Taylor;Deborah Kerr;;;;;
+Quo vadis;Quo vadis;1951;Mervyn LeRoy;Dramat historyczny;USA;Robert Taylor,Deborah Kerr
 Podejrzenie;Suspicion;1941;Alfred Hitchcock;Film-NoirDreszczowiec;USA;Cary Grant,Joan Fontaine
 Pożegnalny walc;Waterloo Bridge;1940;Mervyn LeRoy;Melodramat,Wojenny;USA;Robert Taylor,Virginia Field,Vivien Leigh
 Mroczne przejście;Dark Passage;1947;Delmer Daves;Film-Noir;USA;Humphrey Bogart,Lauren Bacall
@@ -56,7 +56,7 @@ Kto sieje wiatr;Inherit the Wind;1960;Stanley Kramer;Dramat sądowy;USA;Gene Kel
 Laura;Laura;1944;Otto Preminger,Rouben Mamoulian;Film-Noir;USA;Gene Tierney,Vincent Price,Dana Andrews
 Arszenik i stare koronki;Arsenic and Old Lace;1944;Frank Capra;Czarna komedia;USA;Cary Grant
 Nieznajomi z pociągu;Strangers on a Train;1951;Alfred Hitchcock;Film-Noir;USA;Farley Granger,Ruth Roman
-Miejsce pod słońcem;A Place in the Sun;1951;George Stevens;Melodramat,Obyczajowy,Film-Noir;USA;Montgomery Clift;Elizabeth Taylor;;;;;
+Miejsce pod słońcem;A Place in the Sun;1951;George Stevens;Melodramat,Obyczajowy,Film-Noir;USA;Montgomery Clift,Elizabeth Taylor
 Cień wątpliwości;Shadow of a Doubt;1943;Alfred Hitchcock;Dramat,Thriller,Film-Noir;USA;Teresa Wright,Joseph Cotten
 Niewłaściwy człowiek;The Wrong Man;1956;Alfred Hitchcock;Dramat,Kryminał;USA;Kippy Campbell,Vera Miles,Henry Fonda
 Noc myśliwego;The Night of the Hunter;1955;Charles Laughton,Terry Sanders,Robert Mitchum;Dramat,Thriller,Film-Noir;USA;Robert Mitchum
@@ -95,7 +95,7 @@ Miłość po południu;Love in the Afternoon;1957;Billy Wilder;Komedia romantycz
 Nagie miasto;The Naked City;1948;Jules Dassin;Dramat,Film-Noir;USA;Barry Fitzgerald,Dorothy Hart
 Modelka;Cover girl;1944;Charles Vidor;Komedia,Musical,Romans;USA;Rita Hayworth,Gene Kelly,Otto Kruger,Eve Arden
 Butch Cassidy i Sundance Kid;Butch Cassidy and the Sundance Kid;1969;George Roy Hill;Western;USA;Paul Newman,obert Redford,Katharine Ross
-Skrzydała;Wings;1927;William A. Wellman,Harry d'Abbadie d'Arrast;Melodramat,Wojenny,Akcja,Niemy;USA;"Gary Cooper,Charles ""Buddy"" Rogers,Clara Bow "
+Skrzydała;Wings;1927;William A. Wellman,Harry d'Abbadie d'Arrast;Melodramat,Wojenny,Akcja,Niemy;USA;Gary Cooper,Charles "Buddy" Rogers,Clara Bow
 Czerwone trzewiki;The Red Shoes;1948;Emeric Pressburger,Michael Powell;Melodramat,Muzyczny;Wielka Brytania;Anton Walbrook,Austin Trevor
 Co się zdarzyło baby Jane?;What ever happended to baby Jane?;1962;Robert Aldrich;Dramat,Thriller;USA;Bette Davis, Joan Crowford
 Mildred Pierce;Mildred Pierce;1945;Michael Curtiz;Melodramat,Film Noir;USA;Joan Crawford,Jack Carson,Eve Arden,Ann Blyth
@@ -114,9 +114,9 @@ Piękny i zły;Bad and the beautiful;1952;Vincente Minnelli;Melodramat;USA;Kirk 
 Dziedziczka;The Heiress;1949;William Wyler;Melodramat;USA;Olivia de Havilland,Montgomery Clift
 Najlepsze lata naszego życia;The Best Years of Our Lives;1946;William Wyler;Melodramat,Wojenny;USA;Myrna Loy,Dana Andrews,Fredric March,Teresa Wright,Harold Russell
 Przylądek strachu;Cape Fear;1962;J. Lee Thompson;Dramat,Thriller,Film-Noir;USA;Gregory Peck,Robert Mitchum,Polly Bergen
-List do trzech żon;A Letter to Three Wives;1949;Joseph L. Mankiewicz;Komedia obycz.;USA;Kirk Douglas;Jeanne Crain;Linda Darnell;Ann Sothern;;;
+List do trzech żon;A Letter to Three Wives;1949;Joseph L. Mankiewicz;Komedia obycz.;USA;Kirk Douglas,Jeanne Crain,Linda Darnell,Ann Sothern
 Ninoczka;Ninotchka;1939;Ernst Lubitsch;Komedia romantyczna,Szpiegowski;USA;Greta Garbo,Ina Claire,Melvyn Douglas,Bela Lugosi
 Guwernantka;All This, and Heaven Too;1940;Anatole Litvak;Melodramat;USA;Bette Davis,Charles Boyer,Barbara O'Neil
 Siedlisko węży;The Snake Pit;1948;Anatole Litvak;Dramat;USA;Olivia de Havilland
 Wesoły sublokator;The More the Merrier;1943;George Stevens;Komedia,Romans;USA;Jean Arthur,Charles Coburn,Joel McCrea
-Osobne stoliki;Separate tables;1958;Delbert Mann;Dramat obyczajowy;USA;David Niven;Rita Hayworth;Burt Lancaster;Deborah Kerr;Wendy Hiller;Rod Taylor;Gladys Cooper
+Osobne stoliki;Separate tables;1958;Delbert Mann;Dramat obyczajowy;USA;David Niven,Rita Hayworth,Burt Lancaster,Deborah Kerr,Wendy Hiller,Rod Taylor,Gladys Cooper
